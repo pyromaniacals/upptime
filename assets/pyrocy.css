@@ -1,18 +1,18 @@
 :root {
-  --body-background-color: #1a1a1a;
-  --body-text-color: #f0f0f0;
-  --card-background-color: #252525;
-  --nav-background-color: #252525;
-  --nav-border-bottom-color: #333333;
+  --body-background-color: #0f0a0a;
+  --body-text-color: #ffffff;
+  --card-background-color: #1f1515;
+  --nav-background-color: #1f1515;
+  --nav-border-bottom-color: #b91c1c;
   --nav-current-border-bottom-color: #dc2626;
-  --card-border-color: #333333;
-  --up-border-left-color: #f87171;
+  --card-border-color: #4a1a1a;
   --down-border-left-color: #dc2626;
-  --down-background-color: #3d0a0a;
+  --down-background-color: #4a0f00;
   --degraded-border-left-color: #f59e0b;
+  --up-border-left-color: #22c55e;
   --tag-color: #ffffff;
-  --tag-up-background-color: #dc2626;
-  --tag-down-background-color: #991b1b;
+  --tag-up-background-color: #22c55e;
+  --tag-down-background-color: #dc2626;
   --tag-degraded-background-color: #f59e0b;
   --change-background-color: #f59e0b;
   --error-button-border-color: #7f1d1d;
@@ -21,6 +21,6 @@
   --submit-button-border-color: #7f1d1d;
   --submit-button-background-color: #b91c1c;
   --submit-button-color: #ffffff;
-  --graph-opacity: 0.9;
-  --graph-filter: hue-rotate(190deg) saturate(1.3) brightness(0.95);
+  --graph-opacity: 1;
+  --graph-filter: none;
 }
