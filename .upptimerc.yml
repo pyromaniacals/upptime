@@ -17,6 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime
   logoUrl: https://github.com/pyromaniacals/brand/blob/main/icons/pyrocy-icon.png?raw=true
+  themeUrl: https://pyromaniacals.github.io/upptime/pyrocy.css
   name: Pyrocy Status
   introTitle: "**Pyrocy** Status"
   introMessage: View the current status of our infrastructure here
