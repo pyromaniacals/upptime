@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pyrocy.cc.ico",
     "slug": "pyrocy-frontend",
     "status": "down",
-    "uptime": "44.53%",
-    "uptimeDay": "44.53%",
-    "uptimeWeek": "44.53%",
-    "uptimeMonth": "44.53%",
-    "uptimeYear": "44.53%",
+    "uptime": "41.96%",
+    "uptimeDay": "41.96%",
+    "uptimeWeek": "41.96%",
+    "uptimeMonth": "41.96%",
+    "uptimeYear": "41.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.pyrocy.cc.ico",
     "slug": "pyrocy-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "74.42%",
+    "uptimeDay": "74.42%",
+    "uptimeWeek": "74.42%",
+    "uptimeMonth": "74.42%",
+    "uptimeYear": "74.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-17": 0
+    }
   }
 ]
