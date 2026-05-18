@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pyrocy.cc.ico",
     "slug": "pyrocy-frontend",
     "status": "down",
-    "uptime": "41.96%",
-    "uptimeDay": "41.96%",
-    "uptimeWeek": "41.96%",
-    "uptimeMonth": "41.96%",
-    "uptimeYear": "41.96%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-17": 0
+      "2026-05-18": 148,
+      "2026-05-17": 4
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.pyrocy.cc.ico",
     "slug": "pyrocy-backend",
     "status": "down",
-    "uptime": "74.42%",
-    "uptimeDay": "74.42%",
-    "uptimeWeek": "74.42%",
-    "uptimeMonth": "74.42%",
-    "uptimeYear": "74.42%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-17": 0
+      "2026-05-18": 148,
+      "2026-05-17": 4
     }
   }
 ]
